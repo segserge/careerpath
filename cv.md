@@ -15,7 +15,7 @@
   - Déploiement multisite, coordination internationale (Europe, Chine)
   - Conduite du changement : formation de +150 utilisateurs, support, documentation
 
---
+---
  - **2003 - 2013** : PMUC (Pari Mutuel Urbain Camerounais) • Douala, Cameroun (10 ans)
  - *2003 - 2011* : ***Directeur Informatique Adjoint***
    - Supervision du réseau et des infrastructures, gestion des incidents et coordination des équipes techniques
@@ -30,12 +30,13 @@
    - Management d'équipes (14 agents)
    - Support et formation de +650 utilisateurs
    - Recrutement, pilotage et formation des équipes IT locales
----
 
+---
 - **2001 - 2002** : ***Responsable informatique*** • MCI Gabon • Libreville, Gabon (2 ans)
   - Maintenance du parc matériel et logiciel
   - Maintenance de base de données et des applications métier
   - Installations, chez les partenaires, de la solution IT commercialisée
   - Relations avec les partenaires IT externes et les fournisseurs de services
   - Formation des utilisateurs aux outils métier
+
 ---
