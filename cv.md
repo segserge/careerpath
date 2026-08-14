@@ -3,13 +3,13 @@
 
 ## Expériences
 ---
-- **2019 - Aujourd'hui** : ***Senior IT Project Manager*** • KEYRAN Consulting (7 ans) • Douala, Cameroun puis Dreux, France
+- **2019 - Aujourd'hui** : ***Senior IT Project Manager*** • KEYRAN Consulting • Douala, Cameroun puis Dreux, France (7 ans)
   - Pilotage de projets IT transverses : applications métiers, digitalisation, automatisation, data.
   - Cadrage complet : besoins, périmètre, planning, budget, risques, dépendances
   - Coordination des équipes IT, métiers, prestataires et sites internationaux (Europe, Afrique, Chine)
 
 ---
-- **2013 - 2019** : ***Directeur des Systèmes d'Information*** • iPi9 (6 ans) • Libreville, Gabon
+- **2013 - 2019** : ***Directeur des Systèmes d'Information*** • iPi9 • Libreville, Gabon (6 ans)
   - Pilotage de projets transverses de transformation IT
   - Mise en place de la gouvernance SI et des KPI de performance
   - Déploiement multisite, coordination internationale (Europe, Chine)
