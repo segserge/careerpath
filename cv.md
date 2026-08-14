@@ -2,7 +2,7 @@
 
 
 ## Expériences
-- **2019 - Aujourd'hui** : *Senior IT Project Manager* - KEYRAN Consulting (7 ans) - Douala, Cameroun
+- **2019 - Aujourd'hui** : ***Senior IT Project Manager*** - KEYRAN Consulting (7 ans) - Douala, Cameroun
   - Pilotage de projets IT transverses : applications métiers, digitalisation, automatisation, data.
   - Cadrage complet : besoins, périmètre, planning, budget, risques, dépendances
   - Coordination des équipes IT, métiers, prestataires et sites internationaux (Europe, Afrique, Chine)
