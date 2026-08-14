@@ -2,7 +2,7 @@
 
 
 ## Expériences
-- **2019 - Aujourd'hui** : ***Senior IT Project Manager*** - KEYRAN Consulting (7 ans) - Douala, Cameroun
+- **2019 - Aujourd'hui** : ***Senior IT Project Manager*** - KEYRAN Consulting (7 ans) - Douala, Cameroun puis Dreux, France
   - Pilotage de projets IT transverses : applications métiers, digitalisation, automatisation, data.
   - Cadrage complet : besoins, périmètre, planning, budget, risques, dépendances
   - Coordination des équipes IT, métiers, prestataires et sites internationaux (Europe, Afrique, Chine)
@@ -13,7 +13,8 @@
   - Déploiement multisite, coordination internationale (Europe, Chine)
   - Conduite du changement : formation de +150 utilisateurs, support, documentation
 
- - **2003 - 2013** : PMUC • Douala, Cameroun (10 ans)
+ - **2003 - 2013** : PMUC (Pari Mutuel Urbain Camerounais) • Douala, Cameroun (10 ans)
+ - 
    *2003 - 2011* : ***Directeur Informatique Adjoint***
    - Supervision du réseau et des infrastructures, gestion des incidents et coordination des équipes techniques
    - Réalisation de mises à jour, migrations, patching et upgrades en HNO (soirées, nuits, week‑ends)
