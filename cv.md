@@ -20,8 +20,8 @@
    - Participation à la gestion des astreintes et traitement des incidents critiques
    - Documentation technique, procédures d’exploitation, modes opératoires
    - Collaboration avec les équipes systèmes, sécurité et support
-
-   *2003 - 2011* : Administrateur Réseau
+---
+   *2003 - 2011* : ***Administrateur Réseau***
    - Gestion des astreintes et traitement des incidents critiques
    - Gestion d’infrastructures multi-sites (10 sites)
    - Management d'équipes (14 agents)
