@@ -14,18 +14,17 @@
   - Conduite du changement : formation de +150 utilisateurs, support, documentation
 
  - **2003 - 2013** : PMUC (Pari Mutuel Urbain Camerounais) • Douala, Cameroun (10 ans)
+   *2003 - 2011* : ***Directeur Informatique Adjoint***
+   - Supervision du réseau et des infrastructures, gestion des incidents et coordination des équipes techniques
+    - Réalisation de mises à jour, migrations, patching et upgrades en HNO (soirées, nuits, week‑ends)
+    - Participation à la gestion des astreintes et traitement des incidents critiques
+    - Documentation technique, procédures d’exploitation, modes opératoires
+    - Collaboration avec les équipes systèmes, sécurité et support
 
-     *2003 - 2011* : ***Directeur Informatique Adjoint***
-       - Supervision du réseau et des infrastructures, gestion des incidents et coordination des équipes techniques
-       - Réalisation de mises à jour, migrations, patching et upgrades en HNO (soirées, nuits, week‑ends)
-       - Participation à la gestion des astreintes et traitement des incidents critiques
-       - Documentation technique, procédures d’exploitation, modes opératoires
-       - Collaboration avec les équipes systèmes, sécurité et support
-  
-     *2003 - 2011* : ***Administrateur Réseau*** 
-       - Gestion des astreintes et traitement des incidents critiques
-       - Gestion d’infrastructures multi-sites (10 sites)
-       - Management d'équipes (14 agents)
+   *2003 - 2011* : ***Administrateur Réseau***
+   - Gestion des astreintes et traitement des incidents critiques
+   - Gestion d’infrastructures multi-sites (10 sites)
+   - Management d'équipes (14 agents)
        - Support et formation de +650 utilisateurs
        - Recrutement, pilotage et formation des équipes IT locales
 
