@@ -35,3 +35,8 @@
   - Installations, chez les partenaires, de la solution IT commercialisée
   - Relations avec les partenaires IT externes et les fournisseurs de services
   - Formation des utilisateurs aux outils métier
+
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
