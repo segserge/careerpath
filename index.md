@@ -1,5 +1,5 @@
-# Serge K. SEGBEFIAo
-### Senior IT Project Manager (PMP®)
+# Senior IT Project Manager 
+### PMP® Certified
 
 Bienvenue sur mon espace professionnel.
 Découvrez mon parcours, mes compétences et mes réalisations.
