@@ -1,4 +1,4 @@
-# Présentation détaillée de mon parcourse
+# Présentation détaillée de mon parcours
 
 
 ## Expériences
