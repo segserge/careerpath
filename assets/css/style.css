@@ -10,6 +10,9 @@
 
 /* ---------- GLOBAL ---------- */
 body {
+  background: red;
+}
+body {
     margin: 0;
     font-family: "Segoe UI", Roboto, sans-serif;
     background: var(--white);
