@@ -1,7 +1,14 @@
-# Senior IT Project Manager 
-### PMP® Certified
+---
+layout: default
+title: Accueil
+hero_title: Chef de Projet IT Senior
+hero_subtitle: Senior IT Project Manager — Certifié PMP®
+hero_button: Voir mon CV
+hero_button_url: /cv
+---
 
-Bienvenue sur mon espace professionnel.
-Découvrez mon parcours, mes compétences et mes réalisations.
+# Bienvenue sur mon espace professionnel
 
-[Voir mon CV](cv.md) | [Parcours](parcours.md) | [Compétences](competences.md) | [Projets](projets.md) | [Contact](contact.md) 
+Je suis **Serge SEGBEFIA**, Chef de Projet IT Senior spécialisé en transformation digitale, gouvernance SI et pilotage de projets complexes.
+
+Ce site présente mon parcours, mes projets et mes informations de contact.
