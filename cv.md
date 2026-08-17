@@ -7,7 +7,7 @@ description: PMO
 /* # Chef de Projet IT Senior ### Certifié PMP® */
 
 
-## Expériences
+## Expériences professionnelles
 ---
 - **2019 - Aujourd'hui** : ***Senior IT Project Manager*** • KEYRAN Consulting • Douala, Cameroun puis Dreux, France (7 ans)
   - Pilotage de projets IT transverses : applications métiers, digitalisation, automatisation, data.
