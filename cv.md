@@ -1,4 +1,9 @@
+---
 layout: default
+title: CV de Rogue
+description: PMO
+---
+
 # Chef de Projet IT Senior
 ### Certifié PMP®
 
