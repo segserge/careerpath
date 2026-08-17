@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Accueil
-hero_title: Serge K SEGBEFIA
+hero_title: Serge K. SEGBEFIA
 hero_subtitle: Senior IT Project Manager — Certifié PMP®
 hero_button: Voir mon CV
 hero_button_url: /cv
