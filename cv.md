@@ -1,3 +1,4 @@
+layout: default
 # Chef de Projet IT Senior
 ### Certifié PMP®
 
