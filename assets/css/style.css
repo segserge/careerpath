@@ -1,1 +1,92 @@
+/* ---------- PALETTE CAYMAN ---------- */
+:root {
+    --cayman-blue: #2c9ab7;
+    --cayman-dark: #1a6f82;
+    --white: #ffffff;
+    --light-gray: #f5f5f5;
+    --text-dark: #333333;
+    --text-light: #f0f0f0;
+}
+
+/* ---------- GLOBAL ---------- */
+body {
+    margin: 0;
+    font-family: "Segoe UI", Roboto, sans-serif;
+    background: var(--white);
+    color: var(--text-dark);
+    line-height: 1.6;
+}
+
+/* ---------- NAVBAR ---------- */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 40px;
+    background: var(--cayman-dark);
+}
+
+.site-title {
+    color: var(--white);
+    font-size: 22px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.nav-link {
+    color: var(--white);
+    margin-left: 20px;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.nav-link:hover {
+    opacity: 0.7;
+}
+
+/* ---------- HERO ---------- */
+.hero {
+    background: var(--cayman-blue);
+    padding: 80px 40px;
+    text-align: center;
+    color: var(--white);
+}
+
+.hero-content h1 {
+    font-size: 48px;
+    margin-bottom: 10px;
+}
+
+.hero-content p {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.hero-btn {
+    background: var(--white);
+    color: var(--cayman-dark);
+    padding: 12px 25px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.hero-btn:hover {
+    background: var(--light-gray);
+}
+
+/* ---------- CONTENT ---------- */
+.content {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+/* ---------- FOOTER ---------- */
+.footer {
+    background: var(--cayman-dark);
+    color: var(--white);
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
 
